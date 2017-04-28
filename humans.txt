@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rene Kernegger -- rkernegger@aon.at -- @rkernegger
 
 # THANKS
 
